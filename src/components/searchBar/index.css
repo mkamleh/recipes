@@ -1,0 +1,17 @@
+.searchBar-input {
+  border-radius: 10px;
+  height: 3rem;
+  width: 69%;
+  padding: 15px;
+  position: relative;
+  top: -33px;
+}
+
+input:focus-visible input:focus input:hover {
+  border-color: black !important;
+}
+
+*:focus {
+  /* outline: none; */
+  outline-color: var(--main-color);
+}

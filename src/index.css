@@ -1,0 +1,16 @@
+* {
+  margin: 0 !important;
+}
+
+:root {
+  --main-color: #ffb400;
+  --secondary-color: #fd8a8b;
+}
+
+div:where(.swal2-container) button:where(.swal2-styled).swal2-confirm {
+  background-color: var(--main-color) !important;
+}
+
+.Toastify__toast-icon {
+  margin-right: 1rem !important;
+}

@@ -1,0 +1,16 @@
+.recipes-container {
+  margin-top: 30px !important;
+}
+
+.allRecipes-countiner {
+  padding: 1rem;
+}
+
+.pagination-container {
+  display: flex;
+  justify-content: center;
+}
+
+.css-bf9wz-MuiButtonBase-root-MuiPaginationItem-root.Mui-selected {
+  background-color: var(--main-color) !important;
+}

@@ -1,0 +1,27 @@
+.instructions {
+  background-color: #fff3ed;
+  padding: 1% 10%;
+  font-size: 1rem;
+  text-align: center;
+  margin-bottom: 20px !important;
+  border-radius: 10px;
+}
+
+.margin-top {
+  margin-top: 15px !important;
+  text-align: left;
+}
+
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: var(--main-color);
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 10px !important;
+  text-align: center;
+}
+
+.ingredient-container {
+  margin-bottom: 10px !important;
+}
