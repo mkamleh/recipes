@@ -33,6 +33,10 @@ React + TypeScript + Vite
 4. Usage
    The project is organized into several folders:
 
+5. I used string query to search for recipes as it is the most global and flexible variable between all recipes
+
+6. I improved my skills with react animation using motion frame
+
 Api: Contains API calls and error handling.
 Components: Houses various React components.
 Environment: Holds environment variables.
