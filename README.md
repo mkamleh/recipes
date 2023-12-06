@@ -1,4 +1,5 @@
 Recipe Catalogue Documentation
+React + TypeScript + Vite
 
 1. Introduction
    Welcome to the Recipe Catalogue project! This project serves as a comprehensive recipe catalog, offering a diverse collection of recipes. Users can easily search for recipes by entering queries into the search bar, and each recipe provides detailed information, including ingredients and step-by-step instructions.
@@ -11,25 +12,23 @@ Recipe Catalogue Documentation
 3. Installation
    To install and run the project, follow these instructions:
 
-Clone the project using the command:
+   Clone the project using the command:
 
-git clone https://github.com/your-username/your-app.git
-Change into the project directory:
+   git clone https://github.com/mkamleh/recipes.git
 
-bash
-Copy code
-cd recipe
-Install dependencies:
+   Change into the project directory:
 
-bash
-Copy code
-npm install
-Run the project in development mode:
+   cd recipe
 
-bash
-Copy code
-npm run dev
-Open your browser and navigate to http://localhost:5174/
+   Install dependencies:
+
+   npm install
+
+   Run the project in development mode:
+
+   npm run dev
+
+   Open your browser and navigate to http://localhost:5174/
 
 4. Usage
    The project is organized into several folders:
